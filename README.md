@@ -122,6 +122,12 @@ python3 -m unittest discover -s tests
 node --test tests/test_chat_link.mjs   # 可选，要装 Node
 ```
 
+## 这棵树是怎么种出来的
+
+这是一个 **vibe coding** 项目：树长什么样、要哪些功能、每一处手感对不对，是粉条一点点提出来、一遍遍看出来的；代码几乎全是 AI 写的，主要是南初昫（Claude），Codex 也帮了很多忙。
+
+所以代码里难免有不够优雅的地方。发现问题欢迎提 issue，也欢迎你们带着自己的 AI 接着改，种出更好看的树。
+
 ## 致谢
 
 - **架构启发：baci**。星河记忆树最早是照着她的[《记忆银河 · 搭建教程》](https://chat.xiaoke.love/galaxy-tutorial/)长出来的，谢谢她愿意分享
