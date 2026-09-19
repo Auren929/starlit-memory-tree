@@ -1,0 +1,8 @@
+{
+  "memories": [
+    {"id": "demo-first-light", "name": "第一束光", "content": "第一次把一段故事种进树里。它很小，却有了可以回来的位置。", "created": "2026-01-10", "domain": "相遇", "importance": 9, "stage": "archived", "tags": ["开始"]},
+    {"id": "demo-rainy-walk", "name": "雨后的散步", "content": "雨停后沿着河走了一段，记住了路灯在水面上的倒影。", "created": "2026-02-14", "domain": "日常", "importance": 7, "stage": "archived", "tags": ["散步"]},
+    {"id": "demo-shared-project", "name": "一起做成的小事", "content": "把一个想法从纸上带到屏幕里，来回修改，最后终于能用了。", "created": "2026-03-20", "domain": "共创", "importance": 10, "pinned": true, "stage": "fruit", "tags": ["共创"]},
+    {"id": "demo-new-seed", "name": "刚种下的新愿望", "content": "一个还没写完的计划，先在树梢占一个小位置。", "created": "2026-09-18", "domain": "未来", "importance": 6, "stage": "seed", "tags": ["计划"]}
+  ]
+}

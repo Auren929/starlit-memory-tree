@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:link": "node --test tests/test_chat_link.mjs"
+  }
+}
