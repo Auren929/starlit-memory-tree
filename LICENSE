@@ -12,6 +12,13 @@ Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 - three.js r160 — MIT (static/lib/three160/LICENSE)
 - Tree GN 3D model by Node_λrt (@Node_Art) — CC BY 4.0
 - Background music — CC0 (static/audio/tree-bgm/CREDITS.md)
+
+Clawd 角色说明 / About Clawd:
+Clawd 是 Anthropic 的角色形象，相关形象与商标归 Anthropic 所有。本项目里的 Clawd 模型（static/clawd/）是粉丝自制，
+不在上面的 CC BY-NC 4.0 授权范围内；本项目与 Anthropic 没有任何关联，也未获其认可。
+Clawd is a character of Anthropic; its likeness and trademarks belong to Anthropic. The Clawd models in
+static/clawd/ are fan-made and are NOT covered by the CC BY-NC 4.0 grant above. This project is not
+affiliated with or endorsed by Anthropic.
 See THIRD_PARTY.md.
 
 -----------------------------------------------------------------------

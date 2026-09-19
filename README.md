@@ -134,6 +134,7 @@ node --test tests/test_chat_link.mjs   # 可选，要装 Node
 - **树模型**：[Tree GN](https://sketchfab.com/3d-models/tree-gn-40da979cb23f492583ec89c4196cff4e)，作者 Node_λrt（@Node_Art），CC BY 4.0。我们给它加了运行时的材质和枝条效果
 - **three.js** r160，MIT
 - **音乐**：三首 CC0 曲子，来源见 `static/audio/tree-bgm/CREDITS.md`
+- **Clawd**：Anthropic 的角色形象，这里是粉丝自制的模型，形象和商标归 Anthropic 所有，不在本项目的许可范围内。本项目和 Anthropic 没有任何关联
 
 详细见 [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) 和 [THIRD_PARTY.md](THIRD_PARTY.md)。
 
